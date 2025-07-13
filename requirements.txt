@@ -1,0 +1,7 @@
+streamlit==1.26.0
+streamlit-webrtc==0.45.2
+opencv-python==4.5.5.64
+mediapipe==0.10.9
+pillow==9.5.0
+pymupdf==1.22.3
+
