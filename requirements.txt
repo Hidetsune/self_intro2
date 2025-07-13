@@ -4,5 +4,4 @@ pymupdf
 Pillow
 opencv-python-headless
 mediapipe
-pymupdf
 
